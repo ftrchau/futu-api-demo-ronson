@@ -1,34 +1,10 @@
-# ftwebsocket
-
 # How to run in local:
 * yarn install
 * yarn run serve
+* Go to https://www.futunn.com/download/OpenAPI?lang=zh-CN, and download FutuOpenD (OpenAPI下载 -> FutuOpenD)
+* Unzip the previous downloaded file
+* Go inside to the folder FutuOpenD_6.6.3108_NN_Windows, and update FutuOpenD.xml
+* Open cmd. Go inside to the folder FutuOpenD_6.6.3108_NN_Windows. The folder should contains the FutuOpenD.xml and FutuOpenD.exe.
+* Run FutuOpenD.exe
 * Then open in browser http://localhost:8080/
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Click 获取股票快照 button. Result should be returned.

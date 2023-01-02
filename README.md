@@ -1,5 +1,10 @@
 # ftwebsocket
 
+#How to run in local:
+yarn install
+yarn run serve
+Then open in browser http://localhost:8080/
+
 ## Project setup
 ```
 yarn install

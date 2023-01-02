@@ -8,3 +8,7 @@
 * Run FutuOpenD.exe
 * Then open in browser http://localhost:8080/
 * Click 获取股票快照 button. Result should be returned.
+
+# FUTU API Reference
+* Go to https://openapi.futunn.com/futu-api-doc/
+* Remember to choose "Javascript" as the programming language

@@ -5,7 +5,7 @@
 * Unzip the previous downloaded file
 * Go inside to the folder FutuOpenD_6.6.3108_NN_Windows, and update FutuOpenD.xml, usually need to update login_account and login_pwd
 * Open cmd. CD to the folder FutuOpenD_6.6.3108_NN_Windows. The folder should contains the FutuOpenD.xml and FutuOpenD.exe.
-* Run FutuOpenD.exe
+* Run by enthering the command in CMD: FutuOpenD.exe
 * Then open in browser http://localhost:8080/
 * Click 获取股票快照 button. Result should be returned.
 
